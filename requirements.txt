@@ -3,4 +3,6 @@ pandas
 numpy
 click
 matplotlib
-tqdm 
+tqdm
+newsapi-python
+vaderSentiment 
