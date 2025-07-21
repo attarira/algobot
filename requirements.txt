@@ -4,5 +4,5 @@ numpy
 click
 matplotlib
 tqdm
-newsapi-python
-vaderSentiment 
+vaderSentiment
+GoogleNews 
