@@ -1,0 +1,3024 @@
+AAPL 10000 2 15 0.02 3 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -3.26%
+Sharpe Ratio: -1.92
+Max Drawdown: -4.31%
+Win Rate: 14.29%
+Total Trades: 7
+Final Portfolio Value: $9,674.07
+------------------------
+
+
+---
+AAPL 10000 2 15 0.02 3 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -2.56%
+Sharpe Ratio: -1.83
+Max Drawdown: -3.52%
+Win Rate: 16.67%
+Total Trades: 6
+Final Portfolio Value: $9,743.74
+------------------------
+
+
+---
+AAPL 10000 2 15 0.02 5 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -3.52%
+Sharpe Ratio: -2.13
+Max Drawdown: -4.49%
+Win Rate: 0.00%
+Total Trades: 6
+Final Portfolio Value: $9,648.46
+------------------------
+
+
+---
+AAPL 10000 2 15 0.02 5 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -3.16%
+Sharpe Ratio: -2.12
+Max Drawdown: -4.10%
+Win Rate: 0.00%
+Total Trades: 6
+Final Portfolio Value: $9,684.02
+------------------------
+
+
+---
+AAPL 10000 2 15 0.03 3 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -3.26%
+Sharpe Ratio: -1.92
+Max Drawdown: -4.31%
+Win Rate: 14.29%
+Total Trades: 7
+Final Portfolio Value: $9,674.07
+------------------------
+
+
+---
+AAPL 10000 2 15 0.03 3 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -2.56%
+Sharpe Ratio: -1.83
+Max Drawdown: -3.52%
+Win Rate: 16.67%
+Total Trades: 6
+Final Portfolio Value: $9,743.74
+------------------------
+
+
+---
+AAPL 10000 2 15 0.03 5 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -3.52%
+Sharpe Ratio: -2.13
+Max Drawdown: -4.49%
+Win Rate: 0.00%
+Total Trades: 6
+Final Portfolio Value: $9,648.46
+------------------------
+
+
+---
+AAPL 10000 2 15 0.03 5 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -3.16%
+Sharpe Ratio: -2.12
+Max Drawdown: -4.10%
+Win Rate: 0.00%
+Total Trades: 6
+Final Portfolio Value: $9,684.02
+------------------------
+
+
+---
+AAPL 10000 2 20 0.02 3 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -2.42%
+Sharpe Ratio: -1.93
+Max Drawdown: -3.47%
+Win Rate: 16.67%
+Total Trades: 6
+Final Portfolio Value: $9,758.31
+------------------------
+
+
+---
+AAPL 10000 2 20 0.02 3 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -2.22%
+Sharpe Ratio: -1.95
+Max Drawdown: -3.17%
+Win Rate: 16.67%
+Total Trades: 6
+Final Portfolio Value: $9,778.26
+------------------------
+
+
+---
+AAPL 10000 2 20 0.02 5 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -2.91%
+Sharpe Ratio: -2.11
+Max Drawdown: -3.89%
+Win Rate: 0.00%
+Total Trades: 6
+Final Portfolio Value: $9,708.93
+------------------------
+
+
+---
+AAPL 10000 2 20 0.02 5 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -2.41%
+Sharpe Ratio: -1.87
+Max Drawdown: -3.34%
+Win Rate: 0.00%
+Total Trades: 5
+Final Portfolio Value: $9,759.47
+------------------------
+
+
+---
+AAPL 10000 2 20 0.03 3 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -2.42%
+Sharpe Ratio: -1.93
+Max Drawdown: -3.47%
+Win Rate: 16.67%
+Total Trades: 6
+Final Portfolio Value: $9,758.31
+------------------------
+
+
+---
+AAPL 10000 2 20 0.03 3 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -2.22%
+Sharpe Ratio: -1.95
+Max Drawdown: -3.17%
+Win Rate: 16.67%
+Total Trades: 6
+Final Portfolio Value: $9,778.26
+------------------------
+
+
+---
+AAPL 10000 2 20 0.03 5 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -2.91%
+Sharpe Ratio: -2.11
+Max Drawdown: -3.89%
+Win Rate: 0.00%
+Total Trades: 6
+Final Portfolio Value: $9,708.93
+------------------------
+
+
+---
+AAPL 10000 2 20 0.03 5 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -2.41%
+Sharpe Ratio: -1.87
+Max Drawdown: -3.34%
+Win Rate: 0.00%
+Total Trades: 5
+Final Portfolio Value: $9,759.47
+------------------------
+
+
+---
+AAPL 10000 2 30 0.02 3 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -2.44%
+Sharpe Ratio: -2.24
+Max Drawdown: -3.14%
+Win Rate: 20.00%
+Total Trades: 5
+Final Portfolio Value: $9,756.04
+------------------------
+
+
+---
+AAPL 10000 2 30 0.02 3 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -2.32%
+Sharpe Ratio: -2.33
+Max Drawdown: -2.83%
+Win Rate: 20.00%
+Total Trades: 5
+Final Portfolio Value: $9,768.33
+------------------------
+
+
+---
+AAPL 10000 2 30 0.02 5 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -3.22%
+Sharpe Ratio: -2.66
+Max Drawdown: -3.67%
+Win Rate: 0.00%
+Total Trades: 5
+Final Portfolio Value: $9,677.94
+------------------------
+
+
+---
+AAPL 10000 2 30 0.02 5 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -3.03%
+Sharpe Ratio: -2.70
+Max Drawdown: -3.42%
+Win Rate: 0.00%
+Total Trades: 5
+Final Portfolio Value: $9,696.82
+------------------------
+
+
+---
+AAPL 10000 2 30 0.03 3 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -2.44%
+Sharpe Ratio: -2.24
+Max Drawdown: -3.14%
+Win Rate: 20.00%
+Total Trades: 5
+Final Portfolio Value: $9,756.04
+------------------------
+
+
+---
+AAPL 10000 2 30 0.03 3 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -2.32%
+Sharpe Ratio: -2.33
+Max Drawdown: -2.83%
+Win Rate: 20.00%
+Total Trades: 5
+Final Portfolio Value: $9,768.33
+------------------------
+
+
+---
+AAPL 10000 2 30 0.03 5 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -3.22%
+Sharpe Ratio: -2.66
+Max Drawdown: -3.67%
+Win Rate: 0.00%
+Total Trades: 5
+Final Portfolio Value: $9,677.94
+------------------------
+
+
+---
+AAPL 10000 2 30 0.03 5 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -3.03%
+Sharpe Ratio: -2.70
+Max Drawdown: -3.42%
+Win Rate: 0.00%
+Total Trades: 5
+Final Portfolio Value: $9,696.82
+------------------------
+
+
+---
+AAPL 10000 5 15 0.02 3 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -5.88%
+Sharpe Ratio: -3.51
+Max Drawdown: -6.37%
+Win Rate: 0.00%
+Total Trades: 6
+Final Portfolio Value: $9,412.32
+------------------------
+
+
+---
+AAPL 10000 5 15 0.02 3 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -4.80%
+Sharpe Ratio: -3.54
+Max Drawdown: -5.11%
+Win Rate: 0.00%
+Total Trades: 6
+Final Portfolio Value: $9,519.86
+------------------------
+
+
+---
+AAPL 10000 5 15 0.02 5 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -5.16%
+Sharpe Ratio: -3.23
+Max Drawdown: -5.90%
+Win Rate: 0.00%
+Total Trades: 6
+Final Portfolio Value: $9,483.90
+------------------------
+
+
+---
+AAPL 10000 5 15 0.02 5 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -4.41%
+Sharpe Ratio: -3.24
+Max Drawdown: -5.11%
+Win Rate: 0.00%
+Total Trades: 6
+Final Portfolio Value: $9,559.37
+------------------------
+
+
+---
+AAPL 10000 5 15 0.03 3 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -5.88%
+Sharpe Ratio: -3.51
+Max Drawdown: -6.37%
+Win Rate: 0.00%
+Total Trades: 6
+Final Portfolio Value: $9,412.32
+------------------------
+
+
+---
+AAPL 10000 5 15 0.03 3 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -4.80%
+Sharpe Ratio: -3.54
+Max Drawdown: -5.11%
+Win Rate: 0.00%
+Total Trades: 6
+Final Portfolio Value: $9,519.86
+------------------------
+
+
+---
+AAPL 10000 5 15 0.03 5 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -5.16%
+Sharpe Ratio: -3.23
+Max Drawdown: -5.90%
+Win Rate: 0.00%
+Total Trades: 6
+Final Portfolio Value: $9,483.90
+------------------------
+
+
+---
+AAPL 10000 5 15 0.03 5 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -4.41%
+Sharpe Ratio: -3.24
+Max Drawdown: -5.11%
+Win Rate: 0.00%
+Total Trades: 6
+Final Portfolio Value: $9,559.37
+------------------------
+
+
+---
+AAPL 10000 5 20 0.02 3 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -1.20%
+Sharpe Ratio: -0.73
+Max Drawdown: -2.95%
+Win Rate: 20.00%
+Total Trades: 5
+Final Portfolio Value: $9,880.16
+------------------------
+
+
+---
+AAPL 10000 5 20 0.02 3 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -1.06%
+Sharpe Ratio: -0.68
+Max Drawdown: -2.71%
+Win Rate: 20.00%
+Total Trades: 5
+Final Portfolio Value: $9,894.07
+------------------------
+
+
+---
+AAPL 10000 5 20 0.02 5 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -3.47%
+Sharpe Ratio: -2.69
+Max Drawdown: -4.03%
+Win Rate: 20.00%
+Total Trades: 5
+Final Portfolio Value: $9,653.14
+------------------------
+
+
+---
+AAPL 10000 5 20 0.02 5 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -2.87%
+Sharpe Ratio: -2.43
+Max Drawdown: -3.39%
+Win Rate: 25.00%
+Total Trades: 4
+Final Portfolio Value: $9,713.04
+------------------------
+
+
+---
+AAPL 10000 5 20 0.03 3 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -1.20%
+Sharpe Ratio: -0.73
+Max Drawdown: -2.95%
+Win Rate: 20.00%
+Total Trades: 5
+Final Portfolio Value: $9,880.16
+------------------------
+
+
+---
+AAPL 10000 5 20 0.03 3 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -1.06%
+Sharpe Ratio: -0.68
+Max Drawdown: -2.71%
+Win Rate: 20.00%
+Total Trades: 5
+Final Portfolio Value: $9,894.07
+------------------------
+
+
+---
+AAPL 10000 5 20 0.03 5 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -3.47%
+Sharpe Ratio: -2.69
+Max Drawdown: -4.03%
+Win Rate: 20.00%
+Total Trades: 5
+Final Portfolio Value: $9,653.14
+------------------------
+
+
+---
+AAPL 10000 5 20 0.03 5 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -2.87%
+Sharpe Ratio: -2.43
+Max Drawdown: -3.39%
+Win Rate: 25.00%
+Total Trades: 4
+Final Portfolio Value: $9,713.04
+------------------------
+
+
+---
+AAPL 10000 5 30 0.02 3 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -2.94%
+Sharpe Ratio: -2.66
+Max Drawdown: -3.44%
+Win Rate: 25.00%
+Total Trades: 4
+Final Portfolio Value: $9,705.55
+------------------------
+
+
+---
+AAPL 10000 5 30 0.02 3 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -3.68%
+Sharpe Ratio: -3.11
+Max Drawdown: -3.98%
+Win Rate: 0.00%
+Total Trades: 4
+Final Portfolio Value: $9,632.35
+------------------------
+
+
+---
+AAPL 10000 5 30 0.02 5 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -3.54%
+Sharpe Ratio: -2.70
+Max Drawdown: -3.99%
+Win Rate: 25.00%
+Total Trades: 4
+Final Portfolio Value: $9,646.33
+------------------------
+
+
+---
+AAPL 10000 5 30 0.02 5 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -4.88%
+Sharpe Ratio: -3.01
+Max Drawdown: -5.26%
+Win Rate: 0.00%
+Total Trades: 4
+Final Portfolio Value: $9,512.28
+------------------------
+
+
+---
+AAPL 10000 5 30 0.03 3 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -2.94%
+Sharpe Ratio: -2.66
+Max Drawdown: -3.44%
+Win Rate: 25.00%
+Total Trades: 4
+Final Portfolio Value: $9,705.55
+------------------------
+
+
+---
+AAPL 10000 5 30 0.03 3 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -3.68%
+Sharpe Ratio: -3.11
+Max Drawdown: -3.98%
+Win Rate: 0.00%
+Total Trades: 4
+Final Portfolio Value: $9,632.35
+------------------------
+
+
+---
+AAPL 10000 5 30 0.03 5 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -3.54%
+Sharpe Ratio: -2.70
+Max Drawdown: -3.99%
+Win Rate: 25.00%
+Total Trades: 4
+Final Portfolio Value: $9,646.33
+------------------------
+
+
+---
+AAPL 10000 5 30 0.03 5 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -4.88%
+Sharpe Ratio: -3.01
+Max Drawdown: -5.26%
+Win Rate: 0.00%
+Total Trades: 4
+Final Portfolio Value: $9,512.28
+------------------------
+
+
+---
+AAPL 10000 10 15 0.02 3 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -1.22%
+Sharpe Ratio: -0.59
+Max Drawdown: -4.04%
+Win Rate: 50.00%
+Total Trades: 6
+Final Portfolio Value: $9,877.52
+------------------------
+
+
+---
+AAPL 10000 10 15 0.02 3 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -1.03%
+Sharpe Ratio: -0.54
+Max Drawdown: -3.85%
+Win Rate: 50.00%
+Total Trades: 6
+Final Portfolio Value: $9,896.71
+------------------------
+
+
+---
+AAPL 10000 10 15 0.02 5 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -0.72%
+Sharpe Ratio: -0.34
+Max Drawdown: -3.80%
+Win Rate: 33.33%
+Total Trades: 6
+Final Portfolio Value: $9,928.15
+------------------------
+
+
+---
+AAPL 10000 10 15 0.02 5 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: 0.38%
+Sharpe Ratio: 0.23
+Max Drawdown: -2.71%
+Win Rate: 50.00%
+Total Trades: 6
+Final Portfolio Value: $10,038.34
+------------------------
+
+
+---
+AAPL 10000 10 15 0.03 3 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -1.22%
+Sharpe Ratio: -0.59
+Max Drawdown: -4.04%
+Win Rate: 50.00%
+Total Trades: 6
+Final Portfolio Value: $9,877.52
+------------------------
+
+
+---
+AAPL 10000 10 15 0.03 3 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -1.03%
+Sharpe Ratio: -0.54
+Max Drawdown: -3.85%
+Win Rate: 50.00%
+Total Trades: 6
+Final Portfolio Value: $9,896.71
+------------------------
+
+
+---
+AAPL 10000 10 15 0.03 5 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -0.72%
+Sharpe Ratio: -0.34
+Max Drawdown: -3.80%
+Win Rate: 33.33%
+Total Trades: 6
+Final Portfolio Value: $9,928.15
+------------------------
+
+
+---
+AAPL 10000 10 15 0.03 5 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: 0.38%
+Sharpe Ratio: 0.23
+Max Drawdown: -2.71%
+Win Rate: 50.00%
+Total Trades: 6
+Final Portfolio Value: $10,038.34
+------------------------
+
+
+---
+AAPL 10000 10 20 0.02 3 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -2.68%
+Sharpe Ratio: -1.17
+Max Drawdown: -5.47%
+Win Rate: 25.00%
+Total Trades: 4
+Final Portfolio Value: $9,732.33
+------------------------
+
+
+---
+AAPL 10000 10 20 0.02 3 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -2.20%
+Sharpe Ratio: -1.11
+Max Drawdown: -4.79%
+Win Rate: 25.00%
+Total Trades: 4
+Final Portfolio Value: $9,779.77
+------------------------
+
+
+---
+AAPL 10000 10 20 0.02 5 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -2.98%
+Sharpe Ratio: -1.14
+Max Drawdown: -6.08%
+Win Rate: 0.00%
+Total Trades: 4
+Final Portfolio Value: $9,701.60
+------------------------
+
+
+---
+AAPL 10000 10 20 0.02 5 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -1.43%
+Sharpe Ratio: -0.58
+Max Drawdown: -4.82%
+Win Rate: 25.00%
+Total Trades: 4
+Final Portfolio Value: $9,857.05
+------------------------
+
+
+---
+AAPL 10000 10 20 0.03 3 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -2.68%
+Sharpe Ratio: -1.17
+Max Drawdown: -5.47%
+Win Rate: 25.00%
+Total Trades: 4
+Final Portfolio Value: $9,732.33
+------------------------
+
+
+---
+AAPL 10000 10 20 0.03 3 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -2.20%
+Sharpe Ratio: -1.11
+Max Drawdown: -4.79%
+Win Rate: 25.00%
+Total Trades: 4
+Final Portfolio Value: $9,779.77
+------------------------
+
+
+---
+AAPL 10000 10 20 0.03 5 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -2.98%
+Sharpe Ratio: -1.14
+Max Drawdown: -6.08%
+Win Rate: 0.00%
+Total Trades: 4
+Final Portfolio Value: $9,701.60
+------------------------
+
+
+---
+AAPL 10000 10 20 0.03 5 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -1.43%
+Sharpe Ratio: -0.58
+Max Drawdown: -4.82%
+Win Rate: 25.00%
+Total Trades: 4
+Final Portfolio Value: $9,857.05
+------------------------
+
+
+---
+AAPL 10000 10 30 0.02 3 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -3.16%
+Sharpe Ratio: -1.37
+Max Drawdown: -5.18%
+Win Rate: 50.00%
+Total Trades: 2
+Final Portfolio Value: $9,683.90
+------------------------
+
+
+---
+AAPL 10000 10 30 0.02 3 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -2.52%
+Sharpe Ratio: -1.28
+Max Drawdown: -4.34%
+Win Rate: 50.00%
+Total Trades: 2
+Final Portfolio Value: $9,747.69
+------------------------
+
+
+---
+AAPL 10000 10 30 0.02 5 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -4.41%
+Sharpe Ratio: -1.53
+Max Drawdown: -6.40%
+Win Rate: 0.00%
+Total Trades: 2
+Final Portfolio Value: $9,558.87
+------------------------
+
+
+---
+AAPL 10000 10 30 0.02 5 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -3.36%
+Sharpe Ratio: -1.27
+Max Drawdown: -5.71%
+Win Rate: 50.00%
+Total Trades: 2
+Final Portfolio Value: $9,664.28
+------------------------
+
+
+---
+AAPL 10000 10 30 0.03 3 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -3.16%
+Sharpe Ratio: -1.37
+Max Drawdown: -5.18%
+Win Rate: 50.00%
+Total Trades: 2
+Final Portfolio Value: $9,683.90
+------------------------
+
+
+---
+AAPL 10000 10 30 0.03 3 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -2.52%
+Sharpe Ratio: -1.28
+Max Drawdown: -4.34%
+Win Rate: 50.00%
+Total Trades: 2
+Final Portfolio Value: $9,747.69
+------------------------
+
+
+---
+AAPL 10000 10 30 0.03 5 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -4.41%
+Sharpe Ratio: -1.53
+Max Drawdown: -6.40%
+Win Rate: 0.00%
+Total Trades: 2
+Final Portfolio Value: $9,558.87
+------------------------
+
+
+---
+AAPL 10000 10 30 0.03 5 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -3.36%
+Sharpe Ratio: -1.27
+Max Drawdown: -5.71%
+Win Rate: 50.00%
+Total Trades: 2
+Final Portfolio Value: $9,664.28
+------------------------
+
+
+---
+MSFT 10000 2 15 0.02 3 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: 3.65%
+Sharpe Ratio: 2.88
+Max Drawdown: -1.11%
+Win Rate: 0.00%
+Total Trades: 3
+Final Portfolio Value: $10,364.64
+------------------------
+
+
+---
+MSFT 10000 2 15 0.02 3 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: 3.97%
+Sharpe Ratio: 3.25
+Max Drawdown: -0.79%
+Win Rate: 0.00%
+Total Trades: 3
+Final Portfolio Value: $10,396.87
+------------------------
+
+
+---
+MSFT 10000 2 15 0.02 5 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: 4.72%
+Sharpe Ratio: 3.03
+Max Drawdown: -1.19%
+Win Rate: 0.00%
+Total Trades: 3
+Final Portfolio Value: $10,471.87
+------------------------
+
+
+---
+MSFT 10000 2 15 0.02 5 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: 4.80%
+Sharpe Ratio: 3.10
+Max Drawdown: -1.11%
+Win Rate: 0.00%
+Total Trades: 3
+Final Portfolio Value: $10,480.05
+------------------------
+
+
+---
+MSFT 10000 2 15 0.03 3 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: 3.65%
+Sharpe Ratio: 2.88
+Max Drawdown: -1.11%
+Win Rate: 0.00%
+Total Trades: 3
+Final Portfolio Value: $10,364.64
+------------------------
+
+
+---
+MSFT 10000 2 15 0.03 3 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: 3.97%
+Sharpe Ratio: 3.25
+Max Drawdown: -0.79%
+Win Rate: 0.00%
+Total Trades: 3
+Final Portfolio Value: $10,396.87
+------------------------
+
+
+---
+MSFT 10000 2 15 0.03 5 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: 4.72%
+Sharpe Ratio: 3.03
+Max Drawdown: -1.19%
+Win Rate: 0.00%
+Total Trades: 3
+Final Portfolio Value: $10,471.87
+------------------------
+
+
+---
+MSFT 10000 2 15 0.03 5 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: 4.80%
+Sharpe Ratio: 3.10
+Max Drawdown: -1.11%
+Win Rate: 0.00%
+Total Trades: 3
+Final Portfolio Value: $10,480.05
+------------------------
+
+
+---
+MSFT 10000 2 20 0.02 3 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: 4.05%
+Sharpe Ratio: 3.28
+Max Drawdown: -0.73%
+Win Rate: 0.00%
+Total Trades: 2
+Final Portfolio Value: $10,404.55
+------------------------
+
+
+---
+MSFT 10000 2 20 0.02 3 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: 4.33%
+Sharpe Ratio: 3.61
+Max Drawdown: -0.43%
+Win Rate: 0.00%
+Total Trades: 2
+Final Portfolio Value: $10,432.95
+------------------------
+
+
+---
+MSFT 10000 2 20 0.02 5 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: 5.03%
+Sharpe Ratio: 3.25
+Max Drawdown: -0.90%
+Win Rate: 0.00%
+Total Trades: 2
+Final Portfolio Value: $10,503.15
+------------------------
+
+
+---
+MSFT 10000 2 20 0.02 5 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: 5.17%
+Sharpe Ratio: 3.37
+Max Drawdown: -0.73%
+Win Rate: 0.00%
+Total Trades: 2
+Final Portfolio Value: $10,517.43
+------------------------
+
+
+---
+MSFT 10000 2 20 0.03 3 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: 4.05%
+Sharpe Ratio: 3.28
+Max Drawdown: -0.73%
+Win Rate: 0.00%
+Total Trades: 2
+Final Portfolio Value: $10,404.55
+------------------------
+
+
+---
+MSFT 10000 2 20 0.03 3 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: 4.33%
+Sharpe Ratio: 3.61
+Max Drawdown: -0.43%
+Win Rate: 0.00%
+Total Trades: 2
+Final Portfolio Value: $10,432.95
+------------------------
+
+
+---
+MSFT 10000 2 20 0.03 5 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: 5.03%
+Sharpe Ratio: 3.25
+Max Drawdown: -0.90%
+Win Rate: 0.00%
+Total Trades: 2
+Final Portfolio Value: $10,503.15
+------------------------
+
+
+---
+MSFT 10000 2 20 0.03 5 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: 5.17%
+Sharpe Ratio: 3.37
+Max Drawdown: -0.73%
+Win Rate: 0.00%
+Total Trades: 2
+Final Portfolio Value: $10,517.43
+------------------------
+
+
+---
+MSFT 10000 2 30 0.02 3 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: 4.35%
+Sharpe Ratio: 3.58
+Max Drawdown: -0.48%
+Win Rate: 0.00%
+Total Trades: 1
+Final Portfolio Value: $10,435.19
+------------------------
+
+
+---
+MSFT 10000 2 30 0.02 3 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: 4.49%
+Sharpe Ratio: 3.77
+Max Drawdown: -0.34%
+Win Rate: 0.00%
+Total Trades: 1
+Final Portfolio Value: $10,449.31
+------------------------
+
+
+---
+MSFT 10000 2 30 0.02 5 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: 5.34%
+Sharpe Ratio: 3.49
+Max Drawdown: -0.64%
+Win Rate: 0.00%
+Total Trades: 1
+Final Portfolio Value: $10,533.79
+------------------------
+
+
+---
+MSFT 10000 2 30 0.02 5 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: 5.34%
+Sharpe Ratio: 3.49
+Max Drawdown: -0.64%
+Win Rate: 0.00%
+Total Trades: 1
+Final Portfolio Value: $10,533.79
+------------------------
+
+
+---
+MSFT 10000 2 30 0.03 3 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: 4.35%
+Sharpe Ratio: 3.58
+Max Drawdown: -0.48%
+Win Rate: 0.00%
+Total Trades: 1
+Final Portfolio Value: $10,435.19
+------------------------
+
+
+---
+MSFT 10000 2 30 0.03 3 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: 4.49%
+Sharpe Ratio: 3.77
+Max Drawdown: -0.34%
+Win Rate: 0.00%
+Total Trades: 1
+Final Portfolio Value: $10,449.31
+------------------------
+
+
+---
+MSFT 10000 2 30 0.03 5 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: 5.34%
+Sharpe Ratio: 3.49
+Max Drawdown: -0.64%
+Win Rate: 0.00%
+Total Trades: 1
+Final Portfolio Value: $10,533.79
+------------------------
+
+
+---
+MSFT 10000 2 30 0.03 5 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: 5.34%
+Sharpe Ratio: 3.49
+Max Drawdown: -0.64%
+Win Rate: 0.00%
+Total Trades: 1
+Final Portfolio Value: $10,533.79
+------------------------
+
+
+---
+MSFT 10000 5 15 0.02 3 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: 3.49%
+Sharpe Ratio: 3.22
+Max Drawdown: -0.91%
+Win Rate: 0.00%
+Total Trades: 2
+Final Portfolio Value: $10,349.16
+------------------------
+
+
+---
+MSFT 10000 5 15 0.02 3 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: 3.93%
+Sharpe Ratio: 3.76
+Max Drawdown: -0.45%
+Win Rate: 0.00%
+Total Trades: 2
+Final Portfolio Value: $10,393.46
+------------------------
+
+
+---
+MSFT 10000 5 15 0.02 5 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: 3.51%
+Sharpe Ratio: 2.81
+Max Drawdown: -1.20%
+Win Rate: 0.00%
+Total Trades: 2
+Final Portfolio Value: $10,350.61
+------------------------
+
+
+---
+MSFT 10000 5 15 0.02 5 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: 3.68%
+Sharpe Ratio: 2.98
+Max Drawdown: -1.00%
+Win Rate: 0.00%
+Total Trades: 2
+Final Portfolio Value: $10,368.30
+------------------------
+
+
+---
+MSFT 10000 5 15 0.03 3 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: 3.49%
+Sharpe Ratio: 3.22
+Max Drawdown: -0.91%
+Win Rate: 0.00%
+Total Trades: 2
+Final Portfolio Value: $10,349.16
+------------------------
+
+
+---
+MSFT 10000 5 15 0.03 3 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: 3.93%
+Sharpe Ratio: 3.76
+Max Drawdown: -0.45%
+Win Rate: 0.00%
+Total Trades: 2
+Final Portfolio Value: $10,393.46
+------------------------
+
+
+---
+MSFT 10000 5 15 0.03 5 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: 3.51%
+Sharpe Ratio: 2.81
+Max Drawdown: -1.20%
+Win Rate: 0.00%
+Total Trades: 2
+Final Portfolio Value: $10,350.61
+------------------------
+
+
+---
+MSFT 10000 5 15 0.03 5 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: 3.68%
+Sharpe Ratio: 2.98
+Max Drawdown: -1.00%
+Win Rate: 0.00%
+Total Trades: 2
+Final Portfolio Value: $10,368.30
+------------------------
+
+
+---
+MSFT 10000 5 20 0.02 3 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: 3.67%
+Sharpe Ratio: 3.44
+Max Drawdown: -0.72%
+Win Rate: 0.00%
+Total Trades: 2
+Final Portfolio Value: $10,366.85
+------------------------
+
+
+---
+MSFT 10000 5 20 0.02 3 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: 3.93%
+Sharpe Ratio: 3.76
+Max Drawdown: -0.45%
+Win Rate: 0.00%
+Total Trades: 2
+Final Portfolio Value: $10,393.46
+------------------------
+
+
+---
+MSFT 10000 5 20 0.02 5 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: 3.97%
+Sharpe Ratio: 3.29
+Max Drawdown: -0.72%
+Win Rate: 0.00%
+Total Trades: 2
+Final Portfolio Value: $10,396.99
+------------------------
+
+
+---
+MSFT 10000 5 20 0.02 5 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: 3.97%
+Sharpe Ratio: 3.29
+Max Drawdown: -0.72%
+Win Rate: 0.00%
+Total Trades: 2
+Final Portfolio Value: $10,396.99
+------------------------
+
+
+---
+MSFT 10000 5 20 0.03 3 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: 3.67%
+Sharpe Ratio: 3.44
+Max Drawdown: -0.72%
+Win Rate: 0.00%
+Total Trades: 2
+Final Portfolio Value: $10,366.85
+------------------------
+
+
+---
+MSFT 10000 5 20 0.03 3 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: 3.93%
+Sharpe Ratio: 3.76
+Max Drawdown: -0.45%
+Win Rate: 0.00%
+Total Trades: 2
+Final Portfolio Value: $10,393.46
+------------------------
+
+
+---
+MSFT 10000 5 20 0.03 5 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: 3.97%
+Sharpe Ratio: 3.29
+Max Drawdown: -0.72%
+Win Rate: 0.00%
+Total Trades: 2
+Final Portfolio Value: $10,396.99
+------------------------
+
+
+---
+MSFT 10000 5 20 0.03 5 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: 3.97%
+Sharpe Ratio: 3.29
+Max Drawdown: -0.72%
+Win Rate: 0.00%
+Total Trades: 2
+Final Portfolio Value: $10,396.99
+------------------------
+
+
+---
+MSFT 10000 5 30 0.02 3 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: 3.73%
+Sharpe Ratio: 4.11
+Max Drawdown: -0.34%
+Win Rate: 0.00%
+Total Trades: 1
+Final Portfolio Value: $10,372.58
+------------------------
+
+
+---
+MSFT 10000 5 30 0.02 3 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: 3.91%
+Sharpe Ratio: 4.36
+Max Drawdown: -0.34%
+Win Rate: 0.00%
+Total Trades: 1
+Final Portfolio Value: $10,390.53
+------------------------
+
+
+---
+MSFT 10000 5 30 0.02 5 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: 4.13%
+Sharpe Ratio: 3.98
+Max Drawdown: -0.34%
+Win Rate: 0.00%
+Total Trades: 1
+Final Portfolio Value: $10,412.60
+------------------------
+
+
+---
+MSFT 10000 5 30 0.02 5 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: 4.13%
+Sharpe Ratio: 3.98
+Max Drawdown: -0.34%
+Win Rate: 0.00%
+Total Trades: 1
+Final Portfolio Value: $10,412.60
+------------------------
+
+
+---
+MSFT 10000 5 30 0.03 3 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: 3.73%
+Sharpe Ratio: 4.11
+Max Drawdown: -0.34%
+Win Rate: 0.00%
+Total Trades: 1
+Final Portfolio Value: $10,372.58
+------------------------
+
+
+---
+MSFT 10000 5 30 0.03 3 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: 3.91%
+Sharpe Ratio: 4.36
+Max Drawdown: -0.34%
+Win Rate: 0.00%
+Total Trades: 1
+Final Portfolio Value: $10,390.53
+------------------------
+
+
+---
+MSFT 10000 5 30 0.03 5 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: 4.13%
+Sharpe Ratio: 3.98
+Max Drawdown: -0.34%
+Win Rate: 0.00%
+Total Trades: 1
+Final Portfolio Value: $10,412.60
+------------------------
+
+
+---
+MSFT 10000 5 30 0.03 5 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: 4.13%
+Sharpe Ratio: 3.98
+Max Drawdown: -0.34%
+Win Rate: 0.00%
+Total Trades: 1
+Final Portfolio Value: $10,412.60
+------------------------
+
+
+---
+MSFT 10000 10 15 0.02 3 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: 3.12%
+Sharpe Ratio: 3.52
+Max Drawdown: -0.67%
+Win Rate: 50.00%
+Total Trades: 2
+Final Portfolio Value: $10,311.90
+------------------------
+
+
+---
+MSFT 10000 10 15 0.02 3 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: 2.85%
+Sharpe Ratio: 3.28
+Max Drawdown: -0.67%
+Win Rate: 50.00%
+Total Trades: 2
+Final Portfolio Value: $10,284.68
+------------------------
+
+
+---
+MSFT 10000 10 15 0.02 5 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: 3.43%
+Sharpe Ratio: 4.03
+Max Drawdown: -0.36%
+Win Rate: 50.00%
+Total Trades: 2
+Final Portfolio Value: $10,342.68
+------------------------
+
+
+---
+MSFT 10000 10 15 0.02 5 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: 3.43%
+Sharpe Ratio: 4.03
+Max Drawdown: -0.36%
+Win Rate: 50.00%
+Total Trades: 2
+Final Portfolio Value: $10,342.68
+------------------------
+
+
+---
+MSFT 10000 10 15 0.03 3 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: 3.12%
+Sharpe Ratio: 3.52
+Max Drawdown: -0.67%
+Win Rate: 50.00%
+Total Trades: 2
+Final Portfolio Value: $10,311.90
+------------------------
+
+
+---
+MSFT 10000 10 15 0.03 3 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: 2.85%
+Sharpe Ratio: 3.28
+Max Drawdown: -0.67%
+Win Rate: 50.00%
+Total Trades: 2
+Final Portfolio Value: $10,284.68
+------------------------
+
+
+---
+MSFT 10000 10 15 0.03 5 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: 3.43%
+Sharpe Ratio: 4.03
+Max Drawdown: -0.36%
+Win Rate: 50.00%
+Total Trades: 2
+Final Portfolio Value: $10,342.68
+------------------------
+
+
+---
+MSFT 10000 10 15 0.03 5 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: 3.43%
+Sharpe Ratio: 4.03
+Max Drawdown: -0.36%
+Win Rate: 50.00%
+Total Trades: 2
+Final Portfolio Value: $10,342.68
+------------------------
+
+
+---
+MSFT 10000 10 20 0.02 3 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: 6.08%
+Sharpe Ratio: 4.16
+Max Drawdown: -0.42%
+Win Rate: 0.00%
+Total Trades: 1
+Final Portfolio Value: $10,608.15
+------------------------
+
+
+---
+MSFT 10000 10 20 0.02 3 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: 6.08%
+Sharpe Ratio: 4.16
+Max Drawdown: -0.42%
+Win Rate: 0.00%
+Total Trades: 1
+Final Portfolio Value: $10,608.15
+------------------------
+
+
+---
+MSFT 10000 10 20 0.02 5 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: 6.87%
+Sharpe Ratio: 3.87
+Max Drawdown: -0.50%
+Win Rate: 0.00%
+Total Trades: 2
+Final Portfolio Value: $10,687.38
+------------------------
+
+
+---
+MSFT 10000 10 20 0.02 5 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: 6.87%
+Sharpe Ratio: 3.87
+Max Drawdown: -0.50%
+Win Rate: 0.00%
+Total Trades: 2
+Final Portfolio Value: $10,687.38
+------------------------
+
+
+---
+MSFT 10000 10 20 0.03 3 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: 6.08%
+Sharpe Ratio: 4.16
+Max Drawdown: -0.42%
+Win Rate: 0.00%
+Total Trades: 1
+Final Portfolio Value: $10,608.15
+------------------------
+
+
+---
+MSFT 10000 10 20 0.03 3 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: 6.08%
+Sharpe Ratio: 4.16
+Max Drawdown: -0.42%
+Win Rate: 0.00%
+Total Trades: 1
+Final Portfolio Value: $10,608.15
+------------------------
+
+
+---
+MSFT 10000 10 20 0.03 5 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: 6.87%
+Sharpe Ratio: 3.87
+Max Drawdown: -0.50%
+Win Rate: 0.00%
+Total Trades: 2
+Final Portfolio Value: $10,687.38
+------------------------
+
+
+---
+MSFT 10000 10 20 0.03 5 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: 6.87%
+Sharpe Ratio: 3.87
+Max Drawdown: -0.50%
+Win Rate: 0.00%
+Total Trades: 2
+Final Portfolio Value: $10,687.38
+------------------------
+
+
+---
+MSFT 10000 10 30 0.02 3 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: 3.10%
+Sharpe Ratio: 4.00
+Max Drawdown: -0.34%
+Win Rate: 0.00%
+Total Trades: 0
+Final Portfolio Value: $10,310.08
+------------------------
+
+
+---
+MSFT 10000 10 30 0.02 3 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: 3.10%
+Sharpe Ratio: 4.00
+Max Drawdown: -0.34%
+Win Rate: 0.00%
+Total Trades: 0
+Final Portfolio Value: $10,310.08
+------------------------
+
+
+---
+MSFT 10000 10 30 0.02 5 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: 3.10%
+Sharpe Ratio: 4.00
+Max Drawdown: -0.34%
+Win Rate: 0.00%
+Total Trades: 0
+Final Portfolio Value: $10,310.08
+------------------------
+
+
+---
+MSFT 10000 10 30 0.02 5 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: 3.10%
+Sharpe Ratio: 4.00
+Max Drawdown: -0.34%
+Win Rate: 0.00%
+Total Trades: 0
+Final Portfolio Value: $10,310.08
+------------------------
+
+
+---
+MSFT 10000 10 30 0.03 3 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: 3.10%
+Sharpe Ratio: 4.00
+Max Drawdown: -0.34%
+Win Rate: 0.00%
+Total Trades: 0
+Final Portfolio Value: $10,310.08
+------------------------
+
+
+---
+MSFT 10000 10 30 0.03 3 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: 3.10%
+Sharpe Ratio: 4.00
+Max Drawdown: -0.34%
+Win Rate: 0.00%
+Total Trades: 0
+Final Portfolio Value: $10,310.08
+------------------------
+
+
+---
+MSFT 10000 10 30 0.03 5 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: 3.10%
+Sharpe Ratio: 4.00
+Max Drawdown: -0.34%
+Win Rate: 0.00%
+Total Trades: 0
+Final Portfolio Value: $10,310.08
+------------------------
+
+
+---
+MSFT 10000 10 30 0.03 5 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: 3.10%
+Sharpe Ratio: 4.00
+Max Drawdown: -0.34%
+Win Rate: 0.00%
+Total Trades: 0
+Final Portfolio Value: $10,310.08
+------------------------
+
+
+---
+GOOG 10000 2 15 0.02 3 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -2.28%
+Sharpe Ratio: -1.05
+Max Drawdown: -4.94%
+Win Rate: 16.67%
+Total Trades: 6
+Final Portfolio Value: $9,771.59
+------------------------
+
+
+---
+GOOG 10000 2 15 0.02 3 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -2.25%
+Sharpe Ratio: -1.14
+Max Drawdown: -4.53%
+Win Rate: 16.67%
+Total Trades: 6
+Final Portfolio Value: $9,774.92
+------------------------
+
+
+---
+GOOG 10000 2 15 0.02 5 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -3.01%
+Sharpe Ratio: -1.33
+Max Drawdown: -5.60%
+Win Rate: 16.67%
+Total Trades: 6
+Final Portfolio Value: $9,698.89
+------------------------
+
+
+---
+GOOG 10000 2 15 0.02 5 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -3.11%
+Sharpe Ratio: -1.50
+Max Drawdown: -5.46%
+Win Rate: 16.67%
+Total Trades: 6
+Final Portfolio Value: $9,688.95
+------------------------
+
+
+---
+GOOG 10000 2 15 0.03 3 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -2.28%
+Sharpe Ratio: -1.05
+Max Drawdown: -4.94%
+Win Rate: 16.67%
+Total Trades: 6
+Final Portfolio Value: $9,771.59
+------------------------
+
+
+---
+GOOG 10000 2 15 0.03 3 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -2.25%
+Sharpe Ratio: -1.14
+Max Drawdown: -4.53%
+Win Rate: 16.67%
+Total Trades: 6
+Final Portfolio Value: $9,774.92
+------------------------
+
+
+---
+GOOG 10000 2 15 0.03 5 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -3.01%
+Sharpe Ratio: -1.33
+Max Drawdown: -5.60%
+Win Rate: 16.67%
+Total Trades: 6
+Final Portfolio Value: $9,698.89
+------------------------
+
+
+---
+GOOG 10000 2 15 0.03 5 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -3.11%
+Sharpe Ratio: -1.50
+Max Drawdown: -5.46%
+Win Rate: 16.67%
+Total Trades: 6
+Final Portfolio Value: $9,688.95
+------------------------
+
+
+---
+GOOG 10000 2 20 0.02 3 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -1.28%
+Sharpe Ratio: -0.46
+Max Drawdown: -3.93%
+Win Rate: 20.00%
+Total Trades: 5
+Final Portfolio Value: $9,872.46
+------------------------
+
+
+---
+GOOG 10000 2 20 0.02 3 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -1.30%
+Sharpe Ratio: -0.50
+Max Drawdown: -3.59%
+Win Rate: 20.00%
+Total Trades: 5
+Final Portfolio Value: $9,869.54
+------------------------
+
+
+---
+GOOG 10000 2 20 0.02 5 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -1.97%
+Sharpe Ratio: -0.62
+Max Drawdown: -4.56%
+Win Rate: 20.00%
+Total Trades: 5
+Final Portfolio Value: $9,802.74
+------------------------
+
+
+---
+GOOG 10000 2 20 0.02 5 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -1.84%
+Sharpe Ratio: -0.64
+Max Drawdown: -4.19%
+Win Rate: 20.00%
+Total Trades: 5
+Final Portfolio Value: $9,815.74
+------------------------
+
+
+---
+GOOG 10000 2 20 0.03 3 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -1.28%
+Sharpe Ratio: -0.46
+Max Drawdown: -3.93%
+Win Rate: 20.00%
+Total Trades: 5
+Final Portfolio Value: $9,872.46
+------------------------
+
+
+---
+GOOG 10000 2 20 0.03 3 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -1.30%
+Sharpe Ratio: -0.50
+Max Drawdown: -3.59%
+Win Rate: 20.00%
+Total Trades: 5
+Final Portfolio Value: $9,869.54
+------------------------
+
+
+---
+GOOG 10000 2 20 0.03 5 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -1.97%
+Sharpe Ratio: -0.62
+Max Drawdown: -4.56%
+Win Rate: 20.00%
+Total Trades: 5
+Final Portfolio Value: $9,802.74
+------------------------
+
+
+---
+GOOG 10000 2 20 0.03 5 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -1.84%
+Sharpe Ratio: -0.64
+Max Drawdown: -4.19%
+Win Rate: 20.00%
+Total Trades: 5
+Final Portfolio Value: $9,815.74
+------------------------
+
+
+---
+GOOG 10000 2 30 0.02 3 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -0.82%
+Sharpe Ratio: -0.27
+Max Drawdown: -4.03%
+Win Rate: 66.67%
+Total Trades: 3
+Final Portfolio Value: $9,918.06
+------------------------
+
+
+---
+GOOG 10000 2 30 0.02 3 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -0.88%
+Sharpe Ratio: -0.31
+Max Drawdown: -3.91%
+Win Rate: 66.67%
+Total Trades: 3
+Final Portfolio Value: $9,912.46
+------------------------
+
+
+---
+GOOG 10000 2 30 0.02 5 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -1.40%
+Sharpe Ratio: -0.43
+Max Drawdown: -4.66%
+Win Rate: 66.67%
+Total Trades: 3
+Final Portfolio Value: $9,859.76
+------------------------
+
+
+---
+GOOG 10000 2 30 0.02 5 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -1.36%
+Sharpe Ratio: -0.45
+Max Drawdown: -4.39%
+Win Rate: 66.67%
+Total Trades: 3
+Final Portfolio Value: $9,864.05
+------------------------
+
+
+---
+GOOG 10000 2 30 0.03 3 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -0.82%
+Sharpe Ratio: -0.27
+Max Drawdown: -4.03%
+Win Rate: 66.67%
+Total Trades: 3
+Final Portfolio Value: $9,918.06
+------------------------
+
+
+---
+GOOG 10000 2 30 0.03 3 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -0.88%
+Sharpe Ratio: -0.31
+Max Drawdown: -3.91%
+Win Rate: 66.67%
+Total Trades: 3
+Final Portfolio Value: $9,912.46
+------------------------
+
+
+---
+GOOG 10000 2 30 0.03 5 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -1.40%
+Sharpe Ratio: -0.43
+Max Drawdown: -4.66%
+Win Rate: 66.67%
+Total Trades: 3
+Final Portfolio Value: $9,859.76
+------------------------
+
+
+---
+GOOG 10000 2 30 0.03 5 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -1.36%
+Sharpe Ratio: -0.45
+Max Drawdown: -4.39%
+Win Rate: 66.67%
+Total Trades: 3
+Final Portfolio Value: $9,864.05
+------------------------
+
+
+---
+GOOG 10000 5 15 0.02 3 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -1.22%
+Sharpe Ratio: -0.60
+Max Drawdown: -3.26%
+Win Rate: 33.33%
+Total Trades: 6
+Final Portfolio Value: $9,878.27
+------------------------
+
+
+---
+GOOG 10000 5 15 0.02 3 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -0.83%
+Sharpe Ratio: -0.45
+Max Drawdown: -2.62%
+Win Rate: 33.33%
+Total Trades: 6
+Final Portfolio Value: $9,916.95
+------------------------
+
+
+---
+GOOG 10000 5 15 0.02 5 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -1.35%
+Sharpe Ratio: -0.59
+Max Drawdown: -3.31%
+Win Rate: 40.00%
+Total Trades: 5
+Final Portfolio Value: $9,865.50
+------------------------
+
+
+---
+GOOG 10000 5 15 0.02 5 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -2.50%
+Sharpe Ratio: -1.00
+Max Drawdown: -4.21%
+Win Rate: 25.00%
+Total Trades: 4
+Final Portfolio Value: $9,750.37
+------------------------
+
+
+---
+GOOG 10000 5 15 0.03 3 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -1.22%
+Sharpe Ratio: -0.60
+Max Drawdown: -3.26%
+Win Rate: 33.33%
+Total Trades: 6
+Final Portfolio Value: $9,878.27
+------------------------
+
+
+---
+GOOG 10000 5 15 0.03 3 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -0.83%
+Sharpe Ratio: -0.45
+Max Drawdown: -2.62%
+Win Rate: 33.33%
+Total Trades: 6
+Final Portfolio Value: $9,916.95
+------------------------
+
+
+---
+GOOG 10000 5 15 0.03 5 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -1.35%
+Sharpe Ratio: -0.59
+Max Drawdown: -3.31%
+Win Rate: 40.00%
+Total Trades: 5
+Final Portfolio Value: $9,865.50
+------------------------
+
+
+---
+GOOG 10000 5 15 0.03 5 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -2.50%
+Sharpe Ratio: -1.00
+Max Drawdown: -4.21%
+Win Rate: 25.00%
+Total Trades: 4
+Final Portfolio Value: $9,750.37
+------------------------
+
+
+---
+GOOG 10000 5 20 0.02 3 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -1.63%
+Sharpe Ratio: -0.68
+Max Drawdown: -3.91%
+Win Rate: 0.00%
+Total Trades: 3
+Final Portfolio Value: $9,836.85
+------------------------
+
+
+---
+GOOG 10000 5 20 0.02 3 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -1.68%
+Sharpe Ratio: -0.76
+Max Drawdown: -3.58%
+Win Rate: 0.00%
+Total Trades: 3
+Final Portfolio Value: $9,832.20
+------------------------
+
+
+---
+GOOG 10000 5 20 0.02 5 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -2.10%
+Sharpe Ratio: -0.77
+Max Drawdown: -4.32%
+Win Rate: 0.00%
+Total Trades: 3
+Final Portfolio Value: $9,789.84
+------------------------
+
+
+---
+GOOG 10000 5 20 0.02 5 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -2.04%
+Sharpe Ratio: -0.80
+Max Drawdown: -4.08%
+Win Rate: 0.00%
+Total Trades: 3
+Final Portfolio Value: $9,795.52
+------------------------
+
+
+---
+GOOG 10000 5 20 0.03 3 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -1.63%
+Sharpe Ratio: -0.68
+Max Drawdown: -3.91%
+Win Rate: 0.00%
+Total Trades: 3
+Final Portfolio Value: $9,836.85
+------------------------
+
+
+---
+GOOG 10000 5 20 0.03 3 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -1.68%
+Sharpe Ratio: -0.76
+Max Drawdown: -3.58%
+Win Rate: 0.00%
+Total Trades: 3
+Final Portfolio Value: $9,832.20
+------------------------
+
+
+---
+GOOG 10000 5 20 0.03 5 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -2.10%
+Sharpe Ratio: -0.77
+Max Drawdown: -4.32%
+Win Rate: 0.00%
+Total Trades: 3
+Final Portfolio Value: $9,789.84
+------------------------
+
+
+---
+GOOG 10000 5 20 0.03 5 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -2.04%
+Sharpe Ratio: -0.80
+Max Drawdown: -4.08%
+Win Rate: 0.00%
+Total Trades: 3
+Final Portfolio Value: $9,795.52
+------------------------
+
+
+---
+GOOG 10000 5 30 0.02 3 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -0.06%
+Sharpe Ratio: 0.00
+Max Drawdown: -3.64%
+Win Rate: 66.67%
+Total Trades: 3
+Final Portfolio Value: $9,994.19
+------------------------
+
+
+---
+GOOG 10000 5 30 0.02 3 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -0.23%
+Sharpe Ratio: -0.07
+Max Drawdown: -3.56%
+Win Rate: 66.67%
+Total Trades: 3
+Final Portfolio Value: $9,977.41
+------------------------
+
+
+---
+GOOG 10000 5 30 0.02 5 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -0.30%
+Sharpe Ratio: -0.08
+Max Drawdown: -4.03%
+Win Rate: 66.67%
+Total Trades: 3
+Final Portfolio Value: $9,970.14
+------------------------
+
+
+---
+GOOG 10000 5 30 0.02 5 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -0.37%
+Sharpe Ratio: -0.12
+Max Drawdown: -3.76%
+Win Rate: 66.67%
+Total Trades: 3
+Final Portfolio Value: $9,963.24
+------------------------
+
+
+---
+GOOG 10000 5 30 0.03 3 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -0.06%
+Sharpe Ratio: 0.00
+Max Drawdown: -3.64%
+Win Rate: 66.67%
+Total Trades: 3
+Final Portfolio Value: $9,994.19
+------------------------
+
+
+---
+GOOG 10000 5 30 0.03 3 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -0.23%
+Sharpe Ratio: -0.07
+Max Drawdown: -3.56%
+Win Rate: 66.67%
+Total Trades: 3
+Final Portfolio Value: $9,977.41
+------------------------
+
+
+---
+GOOG 10000 5 30 0.03 5 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -0.30%
+Sharpe Ratio: -0.08
+Max Drawdown: -4.03%
+Win Rate: 66.67%
+Total Trades: 3
+Final Portfolio Value: $9,970.14
+------------------------
+
+
+---
+GOOG 10000 5 30 0.03 5 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: -0.37%
+Sharpe Ratio: -0.12
+Max Drawdown: -3.76%
+Win Rate: 66.67%
+Total Trades: 3
+Final Portfolio Value: $9,963.24
+------------------------
+
+
+---
+GOOG 10000 10 15 0.02 3 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: 1.97%
+Sharpe Ratio: 1.00
+Max Drawdown: -3.06%
+Win Rate: 75.00%
+Total Trades: 4
+Final Portfolio Value: $10,197.23
+------------------------
+
+
+---
+GOOG 10000 10 15 0.02 3 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: 1.71%
+Sharpe Ratio: 0.94
+Max Drawdown: -2.98%
+Win Rate: 75.00%
+Total Trades: 4
+Final Portfolio Value: $10,170.97
+------------------------
+
+
+---
+GOOG 10000 10 15 0.02 5 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: 1.36%
+Sharpe Ratio: 0.67
+Max Drawdown: -3.31%
+Win Rate: 75.00%
+Total Trades: 4
+Final Portfolio Value: $10,135.83
+------------------------
+
+
+---
+GOOG 10000 10 15 0.02 5 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: 1.15%
+Sharpe Ratio: 0.64
+Max Drawdown: -3.04%
+Win Rate: 75.00%
+Total Trades: 4
+Final Portfolio Value: $10,115.03
+------------------------
+
+
+---
+GOOG 10000 10 15 0.03 3 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: 1.97%
+Sharpe Ratio: 1.00
+Max Drawdown: -3.06%
+Win Rate: 75.00%
+Total Trades: 4
+Final Portfolio Value: $10,197.23
+------------------------
+
+
+---
+GOOG 10000 10 15 0.03 3 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: 1.71%
+Sharpe Ratio: 0.94
+Max Drawdown: -2.98%
+Win Rate: 75.00%
+Total Trades: 4
+Final Portfolio Value: $10,170.97
+------------------------
+
+
+---
+GOOG 10000 10 15 0.03 5 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: 1.36%
+Sharpe Ratio: 0.67
+Max Drawdown: -3.31%
+Win Rate: 75.00%
+Total Trades: 4
+Final Portfolio Value: $10,135.83
+------------------------
+
+
+---
+GOOG 10000 10 15 0.03 5 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: 1.15%
+Sharpe Ratio: 0.64
+Max Drawdown: -3.04%
+Win Rate: 75.00%
+Total Trades: 4
+Final Portfolio Value: $10,115.03
+------------------------
+
+
+---
+GOOG 10000 10 20 0.02 3 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: 5.46%
+Sharpe Ratio: 1.33
+Max Drawdown: -5.28%
+Win Rate: 100.00%
+Total Trades: 2
+Final Portfolio Value: $10,545.52
+------------------------
+
+
+---
+GOOG 10000 10 20 0.02 3 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: 5.13%
+Sharpe Ratio: 1.30
+Max Drawdown: -5.25%
+Win Rate: 100.00%
+Total Trades: 2
+Final Portfolio Value: $10,512.80
+------------------------
+
+
+---
+GOOG 10000 10 20 0.02 5 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: 4.63%
+Sharpe Ratio: 1.53
+Max Drawdown: -3.41%
+Win Rate: 100.00%
+Total Trades: 3
+Final Portfolio Value: $10,463.24
+------------------------
+
+
+---
+GOOG 10000 10 20 0.02 5 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: 4.12%
+Sharpe Ratio: 1.52
+Max Drawdown: -3.01%
+Win Rate: 100.00%
+Total Trades: 3
+Final Portfolio Value: $10,412.01
+------------------------
+
+
+---
+GOOG 10000 10 20 0.03 3 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: 5.46%
+Sharpe Ratio: 1.33
+Max Drawdown: -5.28%
+Win Rate: 100.00%
+Total Trades: 2
+Final Portfolio Value: $10,545.52
+------------------------
+
+
+---
+GOOG 10000 10 20 0.03 3 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: 5.13%
+Sharpe Ratio: 1.30
+Max Drawdown: -5.25%
+Win Rate: 100.00%
+Total Trades: 2
+Final Portfolio Value: $10,512.80
+------------------------
+
+
+---
+GOOG 10000 10 20 0.03 5 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: 4.63%
+Sharpe Ratio: 1.53
+Max Drawdown: -3.41%
+Win Rate: 100.00%
+Total Trades: 3
+Final Portfolio Value: $10,463.24
+------------------------
+
+
+---
+GOOG 10000 10 20 0.03 5 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: 4.12%
+Sharpe Ratio: 1.52
+Max Drawdown: -3.01%
+Win Rate: 100.00%
+Total Trades: 3
+Final Portfolio Value: $10,412.01
+------------------------
+
+
+---
+GOOG 10000 10 30 0.02 3 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: 9.87%
+Sharpe Ratio: 2.36
+Max Drawdown: -4.72%
+Win Rate: 100.00%
+Total Trades: 1
+Final Portfolio Value: $10,987.22
+------------------------
+
+
+---
+GOOG 10000 10 30 0.02 3 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: 9.97%
+Sharpe Ratio: 2.43
+Max Drawdown: -4.64%
+Win Rate: 100.00%
+Total Trades: 1
+Final Portfolio Value: $10,996.94
+------------------------
+
+
+---
+GOOG 10000 10 30 0.02 5 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: 10.01%
+Sharpe Ratio: 2.27
+Max Drawdown: -5.20%
+Win Rate: 100.00%
+Total Trades: 1
+Final Portfolio Value: $11,001.00
+------------------------
+
+
+---
+GOOG 10000 10 30 0.02 5 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: 9.98%
+Sharpe Ratio: 2.35
+Max Drawdown: -4.95%
+Win Rate: 100.00%
+Total Trades: 1
+Final Portfolio Value: $10,997.78
+------------------------
+
+
+---
+GOOG 10000 10 30 0.03 3 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: 9.87%
+Sharpe Ratio: 2.36
+Max Drawdown: -4.72%
+Win Rate: 100.00%
+Total Trades: 1
+Final Portfolio Value: $10,987.22
+------------------------
+
+
+---
+GOOG 10000 10 30 0.03 3 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: 9.97%
+Sharpe Ratio: 2.43
+Max Drawdown: -4.64%
+Win Rate: 100.00%
+Total Trades: 1
+Final Portfolio Value: $10,996.94
+------------------------
+
+
+---
+GOOG 10000 10 30 0.03 5 0.01
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: 10.01%
+Sharpe Ratio: 2.27
+Max Drawdown: -5.20%
+Win Rate: 100.00%
+Total Trades: 1
+Final Portfolio Value: $11,001.00
+------------------------
+
+
+---
+GOOG 10000 10 30 0.03 5 0.015
+Paper trading mode is currently running without live sentiment.
+
+--- Paper Trading Results ---
+Total Return: 9.98%
+Sharpe Ratio: 2.35
+Max Drawdown: -4.95%
+Win Rate: 100.00%
+Total Trades: 1
+Final Portfolio Value: $10,997.78
+------------------------
+
+
+---
